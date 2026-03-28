@@ -38,10 +38,10 @@ road_accident_risk/
 ```
 
 ▶️ Running the Project
-
+```
 pip install -r requirements.txt
 python main.py
-
+```
 
 
 
